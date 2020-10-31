@@ -1,0 +1,34 @@
+body {
+    background-color: #CFCFCF;
+}
+
+#post-blog {
+    background: white;
+    width: 100%;
+    max-width: 50rem;
+    border-radius: 13px;
+    margin: -7.2rem auto 3.2rem;
+    padding-top: 4rem;
+}
+
+#post-blog h1 {
+    font-weight: bold;
+}
+
+#post-blog img {
+    width: 90%;
+    border-radius: 13px;
+}
+
+#post-blog .img-fluid {
+    max-width: 100%;
+    min-width: 0;
+}
+
+#post-blog .ml-4{
+    margin-left: 5% !important;
+}
+
+#post-blog .mr-4{
+    margin-right: 5% !important;
+}
